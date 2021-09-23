@@ -18,7 +18,8 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Drizzling Jay"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : Man how has had a dream for a long time will finally get looked like the dream.
+                          # site tagline that appears below site title in masthead
 name                     : "Hyoseop Kim"
 description              : "An amazing website."
 url                      : "https://DrizzlingJay.github.io"
