@@ -5,6 +5,10 @@ last_modified_at: 2021-09-23T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true
+layout: archive
+permalink: pages
+author_profile: true
+sidebar_main: true
 ---
 
 
