@@ -1,3 +1,14 @@
+---
+title: "Python practise"
+excerpt: "Python basic"
+last_modified_at: 2021-09-23T08:48:05-04:00
+redirect_from:
+  - /theme-setup/
+toc: true
+---
+
+
+
 복합대입 연산자
 
 a += 10  -> a = a + 10
